@@ -105,6 +105,7 @@
 ```
 git clone https://github.com/biaochenxuying/awesome-books.git
 ```
+**整个项目大小为 **6GB** ，多达 150 本精华电子书，下载请谨慎！**
 
 **整个项目大小为 **4GB** ，多达 150+ 本精华电子书，下载请谨慎！**
 
