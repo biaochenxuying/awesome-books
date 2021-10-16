@@ -190,7 +190,7 @@
 |黑客与画家 硅谷创业之父Paul Graham文集|[8.8](https://book.douban.com/subject/6021440/)|[![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/download.png)](https://github.com/guanpengchn/awesome-books/raw/master/%E5%85%B6%E4%BB%96/%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6%20%E7%A1%85%E8%B0%B7%E5%88%9B%E4%B8%9A%E4%B9%8B%E7%88%B6Paul%20Graham%E6%96%87%E9%9B%86.pdf) [![](https://raw.githubusercontent.com/guanpengchn/awesome-books/master/.helper/buycar.png)](http://www.ituring.com.cn/search?q=%E9%BB%91%E5%AE%A2%E4%B8%8E%E7%94%BB%E5%AE%B6%20%E7%A1%85%E8%B0%B7%E5%88%9B%E4%B8%9A%E4%B9%8B%E7%88%B6Paul%20Graham%E6%96%87%E9%9B%86)|
 
 
-## 最后
+<!-- ## 最后
 
 
 > 开源项目：[**前端GitHub**](https://github.com/FrontEndGitHub/FrontEndGitHub)，专注于挖掘 GitHub 上优秀的前端开源项目，收集、整理、推荐业界高品质前端资源合集，优秀的工具、库、好的教程、了解业界更优秀的代码、工具、业界最新的技术，抹平你的前端信息不对称。
@@ -212,4 +212,4 @@
 
 ![CB834301747](./images/CB834301747.jpeg)
 
-</div>
+</div> -->
